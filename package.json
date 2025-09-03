@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter-evans/repository-dispatch.git"
+    "url": "git+https://github.com/tktl-forks/repository-dispatch.git"
   },
   "keywords": [
     "actions",
